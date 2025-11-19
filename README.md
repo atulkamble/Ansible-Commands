@@ -1,4 +1,4 @@
-# 📝 **Ansible Commands Cheat Sheet (Trainer-Ready)**
+# 📝 **Ansible Commands Cheat Sheet **
 
 ## 🔧 **1. Basic Ansible Commands**
 
